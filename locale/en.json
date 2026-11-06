@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Prompt Boost",
+    "description": "Adds an AI-enhance button next to the model selector that rewrites the unsent composer prompt in place."
+  }
+}
